@@ -1,8 +1,0 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="meta alt b" />
-    <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
-  <action id="ToggleBookmark" />
-</keymap>
