@@ -6,8 +6,16 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisMethod" />
