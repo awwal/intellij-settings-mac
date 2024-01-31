@@ -1,7 +1,17 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateProjectToolWindow" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="FileChooser.GotoHome" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="ProblemsView.QuickFixes">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="ToggleBookmark" />
 </keymap>
