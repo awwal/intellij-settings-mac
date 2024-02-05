@@ -1,17 +1,24 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="ActivateProjectToolWindow" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="FileChooser.GotoHome" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="HideAllWindows" />
   <action id="ProblemsView.QuickFixes">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift meta f11" />
   </action>
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
