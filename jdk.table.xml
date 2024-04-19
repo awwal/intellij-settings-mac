@@ -522,13 +522,13 @@
     <jdk version="2">
       <name value="Python 3.11" />
       <type value="Python SDK" />
-      <version value="Python 3.11.4" />
+      <version value="Python 3.11.9" />
       <homePath value="/usr/local/bin/python3.11" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///usr/local/Cellar/python@3.11/3.11.4_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11" type="simple" />
-            <root url="file:///usr/local/Cellar/python@3.11/3.11.4_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.11/3.11.9/Frameworks/Python.framework/Versions/3.11/lib/python3.11" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.11/3.11.9/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" type="simple" />
             <root url="file:///usr/local/lib/python3.11/site-packages" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2024.1/python_stubs/1456468621" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
