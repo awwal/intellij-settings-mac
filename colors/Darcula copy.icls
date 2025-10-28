@@ -1,10 +1,14 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2024-03-11T13:08:14</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2023.3.3.0.0</property>
     <property name="modified">2024-03-11T13:08:16</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <attributes>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
